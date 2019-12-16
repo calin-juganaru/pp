@@ -1,0 +1,1 @@
+("6.11" ("8dfe257d1aad3df9b2a309a59f52e0c99dfd4dde" . "3951c20a7bd3f089e832aa6f915a9d66faeb567f") #"/home/luigi/Documente/pp/tema1/opcodes.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
